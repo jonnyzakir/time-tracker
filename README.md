@@ -3,4 +3,4 @@ Java (Maven) application for tracking time on the job
 
 Time tracker
 
-Good moring code is  Students!!!
+Good afternoon code is  Students!!!
